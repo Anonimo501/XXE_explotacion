@@ -16,4 +16,6 @@ Probado en Parrot-security-5.0.1
 
 ## USO
 
+git clone https://github.com/Anonimo501/XXE_explotacion.git
+
 
