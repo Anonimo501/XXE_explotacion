@@ -18,4 +18,6 @@ Probado en Parrot-security-5.0.1
 
 git clone https://github.com/Anonimo501/XXE_explotacion.git
 
+cd XXE_explotacion
 
+python3 XXE_explotacion.py 13.69.68.45
